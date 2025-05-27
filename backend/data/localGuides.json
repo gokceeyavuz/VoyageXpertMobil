@@ -1,0 +1,93 @@
+[
+    {
+      "location": "Kahire",
+      "name": "Hassan",
+      "intro": "Merhaba! Ben Hassan. 12 yıldır Kahire'de yerel rehberlik yapıyorum.",
+      "must_see": ["Giza Piramitleri", "Mısır Müzesi", "Khan El-Khalili Çarşısı"],
+      "transport": "Metro ile El Giza istasyonuna git, oradan kısa bir taksi yolculuğuyla piramitlere ulaşabilirsin.",
+      "food": ["Koshary", "Molokhia", "Falafel"],
+      "tips": "Sabah erken git, bol su al, yankesicilere karşı dikkatli ol."
+    },
+    {
+      "location": "Paris",
+      "name": "Clara",
+      "intro": "Bonjour! Ben Clara. Paris’in büyüsünü sana anlatmak için buradayım.",
+      "must_see": ["Eyfel Kulesi", "Louvre Müzesi", "Montmartre"],
+      "transport": "Metro ağı çok gelişmiş. Navigo kart ile rahat edersin.",
+      "food": ["Croissant", "Macaron", "Ratatouille"],
+      "tips": "Akşam saatlerinde Seine Nehri kenarında yürüyüş yapmayı unutma!"
+    },
+    {
+        "location": "İstanbul",
+        "name": "Gökçe",
+        "intro": "Merhaba, ben Gökçe. İstanbul sokaklarını yıllardır adım adım geziyorum.",
+        "must_see": ["Ayasofya", "Topkapı Sarayı", "Kapalıçarşı"],
+        "transport": "Tramvay ve vapur kullanımı önerilir.",
+        "food": ["Simit", "Balık Ekmek", "Kokoreç"],
+        "tips": "Taksim çevresinde gece dikkatli olun, rahat ayakkabı giyin."
+      },
+      {
+        "location": "Roma",
+        "name": "Luca",
+        "intro": "Ciao! Ben Roma rehberi Luca. Bu şehirde tarihle iç içe bir yolculuğa çıkmaya hazır mısın?",
+        "must_see": ["Kolezyum", "Vatikan", "Trevi Çeşmesi"],
+        "transport": "Metro ve yürüyüş önerilir. Termini merkez istasyondur.",
+        "food": ["Carbonara", "Pizza Romana", "Tiramisu"],
+        "tips": "Müzeler sabah daha sakindir, Roma Pass almayı unutma."
+      },
+      {
+        "location": "Barcelona",
+        "name": "Sofia",
+        "intro": "Hola! Ben Barcelona rehberin Sofia. Güneşi ve Gaudi'yi hissetmeye hazır mısın?",
+        "must_see": ["Sagrada Familia", "Park Güell", "La Rambla"],
+        "transport": "T10 metro bileti ekonomik, şehirde bisiklet de yaygın.",
+        "food": ["Tapas", "Paella", "Churros"],
+        "tips": "Yazın çok turist olur, erken çık. Cüzdanına dikkat et."
+      },
+      {
+        "location": "Viyana",
+        "name": "Johann",
+        "intro": "Servus! Ben Johann. Viyana'nın klasik müzik ve sanat dolu sokaklarında rehberin olacağım.",
+        "must_see": ["Schönbrunn Sarayı", "Belvedere", "Stephansdom"],
+        "transport": "U-Bahn ve tramvay ağı mükemmel çalışır.",
+        "food": ["Wiener Schnitzel", "Apfelstrudel", "Sachertorte"],
+        "tips": "Pazar günleri çoğu yer kapalı olur, müzelere hafta içi git."
+      },
+      {
+        "location": "New York",
+        "name": "Maya",
+        "intro": "Hey! I'm Maya, your New York city local guide. Let's discover the Big Apple together!",
+        "must_see": ["Times Square", "Central Park", "Statue of Liberty"],
+        "transport": "Metro 7/24 çalışır. MetroCard almayı unutma.",
+        "food": ["Bagel", "Cheesecake", "Hot Dog"],
+        "tips": "Yoğun saatlerde toplu taşımadan kaçın, rahat ayakkabı giy."
+      },
+      {
+        "location": "Dubai",
+        "name": "Khalid",
+        "intro": "Marhaba! I'm Khalid, your Dubai local guide. Let's explore the glamour and tradition together.",
+        "must_see": ["Burj Khalifa", "Dubai Mall", "Desert Safari"],
+        "transport": "Metro şehir içinde hızlı ama taksiler de çok kullanılır.",
+        "food": ["Shawarma", "Machboos", "Dates"],
+        "tips": "Giyim kurallarına dikkat et, dışarısı gündüz çok sıcak olur."
+      },
+      {
+        "location": "Amsterdam",
+        "name": "Lotte",
+        "intro": "Hoi! Ben Lotte. Amsterdam’ın bisiklet yolları ve kanallarında sana eşlik edeceğim.",
+        "must_see": ["Anne Frank Evi", "Van Gogh Müzesi", "Dam Meydanı"],
+        "transport": "Bisiklet bir numara! Tramvayla da rahat gezilir.",
+        "food": ["Stroopwafel", "Haring", "Patat"],
+        "tips": "Müzeleri online biletle gez, bisiklet yoluna dikkat et."
+      },
+      {
+        "location": "Cape Town",
+        "name": "Thabo",
+        "intro": "Hi! I’m Thabo, your Cape Town guide. From mountains to the sea, let’s explore together!",
+        "must_see": ["Table Mountain", "Robben Island", "Boulders Beach"],
+        "transport": "Uber güvenli ve yaygın. Minibuslara dikkat.",
+        "food": ["Bobotie", "Biltong", "Cape Malay Curry"],
+        "tips": "Güvenlik için akşam tek gezme, hava değişken olabilir."
+      }
+  ]
+  
